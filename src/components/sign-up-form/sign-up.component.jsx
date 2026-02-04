@@ -61,4 +61,5 @@ const SignUpForm = () => {
         </form> 
     </div>
     );
-}; export default SignUpForm;
+};
+export default SignUpForm;
